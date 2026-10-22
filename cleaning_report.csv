@@ -1,0 +1,29 @@
+Column,Original_Missing,Cleaned_Missing,Original_Dtype,Cleaned_Dtype
+Age_Group,0,0,New column,string
+Amount_Check,0,0,New column,string
+Area,16685,0,str,string
+Cancellation_Reason,90969,84964,str,string
+City,16726,0,str,string
+Cuisine_Type,16885,0,str,string
+Customer_Age,50093,0,float64,float64
+Customer_Gender,24856,0,str,string
+Customer_ID,0,0,str,string
+Delivery_Partner_ID,0,0,str,string
+Delivery_Performance,0,0,New column,str
+Delivery_Rating,16523,16523,float64,float64
+Delivery_Time_Min,33359,0,float64,float64
+Discount_Applied,16715,0,float64,float64
+Distance_km,33470,0,float64,float64
+Final_Amount,55697,56470,float64,float64
+Order_Date,1014,1014,str,datetime64[us]
+Order_Day,0,0,str,string
+Order_ID,0,0,str,object
+Order_Status,0,0,str,string
+Order_Time,1998,1998,str,string
+Order_Value,33327,0,float64,float64
+Payment_Mode,19911,0,str,string
+Peak_Hour,32962,32962,object,boolean
+Profit_Margin,0,0,float64,float64
+Restaurant_ID,0,0,str,string
+Restaurant_Name,0,0,str,string
+Restaurant_Rating,0,18019,float64,float64
